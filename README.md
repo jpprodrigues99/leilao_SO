@@ -1,0 +1,1 @@
+Projeto escolar sobre um leilão em python com sockets, com servidor e possibilita a entrada de vários utilizadores e regista histórico da conclusão do leilão
